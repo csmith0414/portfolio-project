@@ -11,6 +11,10 @@ Write code from scratch to make a webpage for a personal portoflio and complete 
 - When clicking on the image of the application, you are taken to that deployed application
 - When resizing the page or view of the site you are presented with a responsive layout that adapts to my viewport
 
+![portfolio demo](./Images/Screenshot.png)
+
+![My Portfolio](https://csmith0414.github.io/portfolio-project/)
+
 ## Usage
 
 To provide a portfolio for the developer to provide example of their work
